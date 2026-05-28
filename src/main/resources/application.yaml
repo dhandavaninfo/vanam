@@ -1,3 +1,6 @@
+server:
+  port: 9080  # Overrides default 8080
+
 spring:
   application:
     name: vanam
